@@ -1,4 +1,4 @@
-import{aB as e,aZ as a,c as t,b as s,a as n,r as i,j as c,am as l,M as r,a_ as o,K as d,L as u,N as p,q as x,s as m,D as k,t as h,e as w,an as b}from"./index-CAKfemin.js";import{WorkspaceCreateDialog as f}from"./WorkspaceCreateDialog-DM9VoU_x.js";
+import{aB as e,aZ as a,c as t,b as s,a as n,r as i,j as c,am as l,M as r,a_ as o,K as d,L as u,N as p,q as x,s as m,D as k,t as h,e as w,an as b}from"./index-DtP_Y9mG.js";import{WorkspaceCreateDialog as f}from"./WorkspaceCreateDialog-tdeb7fWd.js";
 /**
  * @license lucide-react v0.577.0 - ISC
  *
